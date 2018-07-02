@@ -1,5 +1,8 @@
 h1 {
-color: lightgreen;
-background-color: violet;
-
+    color: lightgreen;
+    background-color: violet;
 } 
+
+body {
+    background-color: black;
+}
